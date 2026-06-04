@@ -10,9 +10,6 @@ class Config:
     # SaluteSpeech
     SALUTE_SPEECH_API_KEY = os.getenv("SALUTE_SPEECH_API_KEY", "MDE5ZTI5ZjctNjY0YS03OGVjLWFhNmYtYTU1MTFkOTY3M2JjOjNmNjUyZmJmLWI5YTgtNDIyNy04NDRkLTZhMGM4MjljZWIzNg==")
 
-    #HuggingFace
-    HUGGING_FACE_API_KEY = os.getenv("HF_TOKEN", "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")
-
     BASE_DIR = Path(__file__).parent
     CARS_DB_PATH = BASE_DIR / "data" / "cars.csv"
     KNOWLEDGE_DIR = BASE_DIR / "data" / "knowledge"
