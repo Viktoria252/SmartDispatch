@@ -1,0 +1,13 @@
+plate,capacity_kg,volume_m3,type,status,rate_km,driver_exp_months
+A777ВВ,1500,20,Фургон,available,30,24
+В123СС,3500,35,Тент,available,42,60
+С456DE,5000,50,Рефрижератор,available,55,80
+E789FG,2500,28,Изотермический,available,38,36
+K012HI,8000,75,Тент,available,65,120
+M345JK,1200,15,Фургон,available,25,12
+P678LM,10000,95,Платформа,available,80,48
+R901NO,3000,32,Фургон,busy,40,18
+T234PQ,6000,60,Рефрижератор,available,60,96
+U567RS,4000,42,Изотермический,busy,45,30
+W890TU,2000,22,Фургон,available,28,6
+X123VW,7000,70,Тент,available,70,42
